@@ -7,18 +7,6 @@
       "namespace": "android_app",
       "package_name": "com.motofellow2.app",
       "sha256_cert_fingerprints": [
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C "
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.motofellow2.app",
-      "sha256_cert_fingerprints": [
         "DB:58:7C:A6:A1:AE:D8:67:F1:85:B3:A9:5B:C0:8C:17:02:56:91:5D:AC:B1:2E:68:E0:9F:71:13:64:C1:86:5C"
       ]
     }
